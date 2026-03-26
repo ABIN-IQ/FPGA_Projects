@@ -1,4 +1,4 @@
-**Project Title : Power Optimization using Implementation Stratergy**
+**Project : Power Optimization using Implementation Stratergy**
 
 Basically, Vivado provides multiple implementation strategies in the settings menu. In this work, the focus is on optimizing power for efficient operation. After design entry and synthesis, and before running implementation, the power optimization feature is enabled as shown in the figure.
 ![Setting of Vivado](Images/Power_opt.png)
