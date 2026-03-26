@@ -4,5 +4,5 @@ In this project, a Half Adder was designed in Verilog with input ports a, b and 
 
 ##Output
 
-![RTL Analysis Waveform](Images/RTL analysis.png)
-![Synthesis Analysis Waveform](Images/Synthesis Analysis.png)
+![RTL analysis Waveform](Images/RTL_analysis.png)
+![Synthesis analysis Waveform](Images/Synthesis_analysis.png)
