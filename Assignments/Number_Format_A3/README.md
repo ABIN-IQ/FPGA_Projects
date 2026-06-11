@@ -1,1 +1,1 @@
-
+Write a Verilog Code to Intialize Variable a to decimal value of 12, b to octal value of 345 and c to binary value of 100. Display the Value of all the variable on the Console using EDA playground and $display function. Share the Snapshot of the Verilog Code and Console Output.
